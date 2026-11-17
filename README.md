@@ -1,5 +1,5 @@
 # 💫 About Me:
-Code. Learn. Repeat. 💻 <br>Java enthusiast with a growing toolkit in Python & C#<br>Software Development student at EDUVOS | Deeply interested in AI and the agentic revolution transforming modern business.
+Code. Learn. Repeat. 💻 <br>Python enthusiast with a growing toolkit in Java & C#<br>Software Development student at EDUVOS | Deeply interested in AI and the agentic revolution transforming modern business.
 
 
 ## 🌐 Socials:
